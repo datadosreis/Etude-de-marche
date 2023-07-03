@@ -11,6 +11,6 @@ Deux méthodes de clustering ont été utilisées : la classification ascendante
 Une analyse en composantes principales (ACP) a également été réalisée pour visualiser les résultats de l'analyse, comprendre les groupes, les liens entre les variables, et les liens entre les individus.
 
 ## Livrables
-Un notebook contenant la préparation, le nettoyage et l'analyse exploratoire des données.
-Un notebook contenant les clusterings effectués et les différentes visualisations associées.
-Une présentation qui récapitule le contexte du projet de data analyse, la démarche suivie, et les résultats et recommandations.
+- Un notebook contenant la préparation, le nettoyage et l'analyse exploratoire des données.
+- Un notebook contenant les clusterings effectués et les différentes visualisations associées.
+- Une présentation qui récapitule le contexte du projet de data analyse, la démarche suivie, et les résultats et recommandations.
